@@ -1,0 +1,17 @@
+{
+  "name": "ms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "./node_modules/.bin/babel Babel -d dict"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/cli":"^7.13.14",
+    "@babel/preset-env": "^7.13.15"
+  }
+}
